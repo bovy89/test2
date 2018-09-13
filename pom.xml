@@ -22,7 +22,7 @@
   </parent>
   <groupId>io.openshift.booster</groupId>
   <artifactId>test2</artifactId>
-  <version>1.0.0</version>
+  <version>2.0.0</version>
   <name>Spring Boot - Health Check Booster</name>
   <description>Spring Boot - Health Check Booster</description>
   <properties>
